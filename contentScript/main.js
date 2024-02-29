@@ -280,7 +280,10 @@ function ace_next() {
   if (mdc2) {
     window.eval(ace2);
   }
-
+spc_audio_element.99cents =ytpitch.99cents
+	
+	
+	
 }
 
 
