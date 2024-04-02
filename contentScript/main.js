@@ -299,7 +299,8 @@ function ace_next() {
   if (mdc2) {
     window.eval(ace2);
   }
-
+fix=semitones=ultrahighquality=fix
+	
 
 }
 
